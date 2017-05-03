@@ -7,7 +7,7 @@ Geowiki was built (and depends) on the following server-side technologies:
 * Linux (Ubuntu)
 * Apache
 * PHP
-* MySQL
+* MySQL (SQL dump available at https://www.dropbox.com/s/pj9uovasfu6gkjz/geowiki.zip?dl=0)
 
 # Notes
 The following is the list of notable code snippets:
